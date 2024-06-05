@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marquee-equity/static/css/main.16c8853b.css",
+    "main.js": "/marquee-equity/static/js/main.23462a32.js",
+    "index.html": "/marquee-equity/index.html",
+    "main.16c8853b.css.map": "/marquee-equity/static/css/main.16c8853b.css.map",
+    "main.23462a32.js.map": "/marquee-equity/static/js/main.23462a32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c8853b.css",
+    "static/js/main.23462a32.js"
+  ]
+}
